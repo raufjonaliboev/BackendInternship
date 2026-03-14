@@ -13,4 +13,4 @@ This repository contains the assignment files for [Assignment01].
 
 ##Links
 gitHub repository: https://github.com/raufjonaliboev/gitFundamentals
-notion: https://www.notion.so/rebase-32379dbf8eb780908626d269e07bafdc?source=copy_link
+notion: https://www.notion.so/Git-Concepts-32379dbf8eb78073bf69f17e71ac786a
